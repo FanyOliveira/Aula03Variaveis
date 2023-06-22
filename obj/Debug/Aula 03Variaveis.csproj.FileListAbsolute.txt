@@ -1,0 +1,7 @@
+C:\Users\rafany.cojesus\source\repos\Aula 03Variaveis\Aula 03Variaveis\bin\Debug\Aula 03Variaveis.exe.config
+C:\Users\rafany.cojesus\source\repos\Aula 03Variaveis\Aula 03Variaveis\bin\Debug\Aula 03Variaveis.exe
+C:\Users\rafany.cojesus\source\repos\Aula 03Variaveis\Aula 03Variaveis\bin\Debug\Aula 03Variaveis.pdb
+C:\Users\rafany.cojesus\source\repos\Aula 03Variaveis\Aula 03Variaveis\obj\Debug\Aula 03Variaveis.csproj.AssemblyReference.cache
+C:\Users\rafany.cojesus\source\repos\Aula 03Variaveis\Aula 03Variaveis\obj\Debug\Aula 03Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\rafany.cojesus\source\repos\Aula 03Variaveis\Aula 03Variaveis\obj\Debug\Aula 03Variaveis.exe
+C:\Users\rafany.cojesus\source\repos\Aula 03Variaveis\Aula 03Variaveis\obj\Debug\Aula 03Variaveis.pdb
